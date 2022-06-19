@@ -3,11 +3,11 @@
   "description": "herramienta para hacer deploy en heroku",
   "env": {
     "administrador": {
-      "description": "Admin del bot",
+      "description": "JAGB2021",
       "value": ""
     },
     "bot_token": {
-      "description": "Token del bot",
+      "description": "5272466481:AAHYxL1wTxk0RwrS5LWlKo0gXdGrSCZRrCg",
       "value": ""
     }
   },
